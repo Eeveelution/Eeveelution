@@ -43,7 +43,7 @@ I also from time to time like to experiment with new technologies and languages 
 From right to Left: <br><br>
 Deno (TS/JS Runtime), Laravel (PHP Web Framework), OpenGL, Xamarin (C# + Android), Kotlin Android Development, Redis, PostgreSQL
 
-<br><br>
+<br>
 	
 <details>
 	<summary> Projects I am looking to do: </summary>
