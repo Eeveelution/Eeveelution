@@ -31,7 +31,7 @@ I also from time to time like to experiment with new technologies and languages 
 
 ## Technologies I wanna look into/learn
 
-<img style="padding: 1.5px" align="left" alt="Deno" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Deno.svg"/>
+<img style="padding: 1.5px" align="left" alt="Deno" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Deno2.svg"/>
 <img style="padding: 1.5px" align="left" alt="Laravel" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Laravel.svg"/>	
 <img style="padding: 1.5px" align="left" alt="OpenGL" height="35px" width="70px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Opengl-logo.svg"/>
 <img style="padding: 1.5px" align="left" alt="Xamarin" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/xamarin.svg"/>	
