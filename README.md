@@ -6,18 +6,27 @@ I also from time to time like to experiment with new technologies and languages 
 
 ## Languages I am Proficient in:
 
-<img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/csharp.svg"/>
+<img style="padding: 1.5px" align="left" alt="CSharp" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/csharp.svg"/>
 <img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/php.svg"/>
+
+<br>
+
+## Technologies I am using/am Proficient at:
+
+<img style="padding: 1.5px" align="left" alt="MonoGame" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/monogame.svg"/>
+<img style="padding: 1.5px" align="left" alt="Microsoft XNA" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/xna.svg"/>
+<img style="padding: 1.5px" align="left" alt="MariaDB" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/mariadb.svg"/>
+<img style="padding: 1.5px" align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/mysql.svg"/>
 
 <br>
 
 ## Languages I am looking to learn:
 
 (I want to polish up my PHP a little)<br><br>
-<img style="padding: 1.5px" align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/php.svg"/>
-<img style="padding: 1.5px" align="left" alt="Rust" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Rustacean-orig-noshadow.svg"/>
-<img style="padding: 1.5px" align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/typescript.svg"/>
-<img style="padding: 1.5px" align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/kotline.svg"/>
+<img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/php.svg"/>
+<img style="padding: 1.5px; margin-bottom: 10px" align="left" alt="Rust" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Rustacean-orig-noshadow.svg"/>
+<img style="padding: 1.5px" align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/typescript.svg"/>
+<img style="padding: 1.5px" align="left" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/kotline.svg"/>
 <br>
 
 ## IDEs that I am using: </span>
