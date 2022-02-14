@@ -17,6 +17,7 @@ I also from time to time like to experiment with new technologies and languages 
 <img style="padding: 1.5px" align="left" alt="Microsoft XNA" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/xna.svg"/>
 <img style="padding: 1.5px" align="left" alt="MariaDB" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/mariadb.svg"/>
 <img style="padding: 1.5px" align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/mysql.svg"/>
+<img style="padding: 1.5px" align="left" alt="OpenGL" height="35px" width="70px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Opengl-logo.svg"/>
 
 <br>
 
@@ -40,17 +41,11 @@ I also from time to time like to experiment with new technologies and languages 
 
 ## Technologies I wanna look into/learn
 
-<img style="padding: 1.5px" align="left" alt="Deno" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Deno2.svg"/>
-<img style="padding: 1.5px" align="left" alt="Laravel" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Laravel.svg"/>	
-<img style="padding: 1.5px" align="left" alt="OpenGL" height="35px" width="70px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Opengl-logo.svg"/>
-<img style="padding: 1.5px" align="left" alt="Xamarin" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/xamarin.svg"/>	
-<img style="padding: 1.5px" align="left" alt="Kotlin Android" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/kotlin-android.png"/>
-<img style="padding: 1.5px" align="left" alt="Redis" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/redis.svg"/>
-<img style="padding: 1.5px" align="left" alt="PostgreSQL" height="35px" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/postgresql.svg"/>
+Direct3D 11
 	
 <br><br>
-From right to Left: <br><br>
-Deno (TS/JS Runtime), Laravel (PHP Web Framework), OpenGL, Xamarin (C# + Android), Kotlin Android Development, Redis, PostgreSQL
+
+nya
 
 <br>
 	
