@@ -43,7 +43,7 @@ I also from time to time like to experiment with new technologies and languages 
 
 Direct3D 11
 	
-<br><br>
+![](https://github.com/Eeveelution/github-stats/blob/master/generated/languages.svg)
 
 nya
 
