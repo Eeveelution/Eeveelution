@@ -39,7 +39,8 @@ I also from time to time like to experiment with new technologies and languages 
 
 ## Technologies I wanna look into/learn
 
-<img style="padding: 1.5px" align="left" alt="React" width="70px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/logo.svg"/>
+<img style="padding: 1.5px" align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/logo.svg"/>
+<img style="padding: 1.5px" align="left" alt="Metal" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/Apple_Metal_logo,_version_2.svg"/>
 
 <br><br>
 
