@@ -8,6 +8,7 @@ I also from time to time like to experiment with new technologies and languages 
 
 <img style="padding: 1.5px" align="left" alt="CSharp" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/csharp.svg"/>
 <img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/php.svg"/>
+<img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/go.svg"/>
 
 <br>
 
@@ -18,34 +19,33 @@ I also from time to time like to experiment with new technologies and languages 
 <img style="padding: 1.5px" align="left" alt="MariaDB" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/mariadb.svg"/>
 <img style="padding: 1.5px" align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/mysql.svg"/>
 <img style="padding: 1.5px" align="left" alt="OpenGL" height="35px" width="70px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Opengl-logo.svg"/>
+<img style="padding: 1.5px" align="left" alt="Direct3D11" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/direct3d.jpg"/>
 
 <br>
 
 ## Languages I am looking to learn:
 
-(I want to polish up my PHP a little)<br><br>
-<img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/php.svg"/>
-<img style="padding: 1.5px; margin-bottom: 10px" align="left" alt="Rust" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Rustacean-orig-noshadow.svg"/>
+<img style="padding: 1.5px" align="left" alt="Swift" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/swift-programming-language.svg"/>
 <img style="padding: 1.5px" align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/typescript.svg"/>
-<img style="padding: 1.5px" align="left" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/kotline.svg"/>
 <br>
 
 ## IDEs that I am using: </span>
 
 <img style="padding: 1.5px" align="left" alt="Rider" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/rider_logo_300x300.png"/>
-<img style="padding: 1.5px" align="left" alt="WebStorm" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/WebStorm_Icon.svg.png"/>
-<img style="padding: 1.5px" align="left" alt="PhpStorm" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/PhpStorm_Icon.svg.png"/>
+<img style="padding: 1.5px" align="left" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/visual-studio-code.svg"/>
 <img style="padding: 1.5px" align="left" alt="VS 2019" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/vs2019.svg"/>
 
 <br>
 
 ## Technologies I wanna look into/learn
 
-Direct3D 11
+<img style="padding: 1.5px" align="left" alt="React" width="70px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/logo.svg"/>
+
+<br><br>
+
+## Statistics and other stuff
 	
 ![](https://github.com/Eeveelution/github-stats/blob/master/generated/languages.svg)
-
-nya
 
 <br>
 	
@@ -53,15 +53,7 @@ nya
 	<summary> Projects I am looking to do: </summary>
 	<br>
 	
-	+ Basic Kernel
-	+ osu! 2007 Server in Rust
-	+ Personal Website (Probably in Laravel)
-	+ Basic Image Board in Laravel
-	+ Standalone osu! Catch the Beat client
-	
+	+ Create a Game
+	+ Potentially create a 3D Engine	
 </details>
-	
-	
-	
-	
 	
