@@ -8,7 +8,7 @@ I also from time to time like to experiment with new technologies and languages 
 
 <img style="padding: 1.5px" align="left" alt="CSharp" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/csharp.svg"/>
 <img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/php.svg"/>
-<img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/go.svg"/>
+<img style="padding: 1.5px" align="left" alt="PHP" width="35px" height="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/go.svg"/>
 
 <br>
 
