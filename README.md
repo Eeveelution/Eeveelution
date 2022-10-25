@@ -7,8 +7,8 @@ I also from time to time like to experiment with new technologies and languages 
 ## Languages I am Proficient in:
 
 <img style="padding: 1.5px" align="left" alt="CSharp" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/csharp.svg"/>
-<img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/php.svg"/>
 <img style="padding: 1.5px" align="left" alt="PHP" width="35px" height="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/go.svg"/>
+<img style="padding: 1.5px" align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/typescript.svg"/>
 
 <br>
 
@@ -20,13 +20,15 @@ I also from time to time like to experiment with new technologies and languages 
 <img style="padding: 1.5px" align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/mysql.svg"/>
 <img style="padding: 1.5px" align="left" alt="OpenGL" height="35px" width="70px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/Opengl-logo.svg"/>
 <img style="padding: 1.5px" align="left" alt="Direct3D11" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/direct3d.jpg"/>
+<img style="padding: 1.5px" align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/logo.svg"/>
 
 <br>
 
 ## Languages I am looking to learn:
 
 <img style="padding: 1.5px" align="left" alt="Swift" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/swift-programming-language.svg"/>
-<img style="padding: 1.5px" align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/assets/typescript.svg"/>
+<img style="padding: 1.5px" align="left" alt="Rust" width="35px" src="http://rust-lang.org/logos/rust-logo-32x32.png"/>
+
 <br>
 
 ## IDEs that I am using: </span>
@@ -39,7 +41,7 @@ I also from time to time like to experiment with new technologies and languages 
 
 ## Technologies I wanna look into/learn
 
-<img style="padding: 1.5px" align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/logo.svg"/>
+
 <img style="padding: 1.5px" align="left" alt="Metal" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/Apple_Metal_logo,_version_2.svg"/>
 
 <br><br>
