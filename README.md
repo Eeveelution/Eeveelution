@@ -27,7 +27,6 @@ I also from time to time like to experiment with new technologies and languages 
 ## Languages I am looking to learn:
 
 <img style="padding: 1.5px" align="left" alt="Swift" width="35px" src="https://raw.githubusercontent.com/Eeveelution/Eeveelution/master/swift-programming-language.svg"/>
-<img style="padding: 1.5px" align="left" alt="Rust" width="35px" src="http://rust-lang.org/logos/rust-logo-32x32.png"/>
 
 <br>
 
@@ -52,13 +51,4 @@ I also from time to time like to experiment with new technologies and languages 
 
 <embed src="https://wakatime.com/share/@45b74ee6-e679-4895-927f-3abce4fca4f8/cd6646b2-25a0-4766-b3ed-2c7172feba4e.svg"/>
 
-<br>
-	
-<details>
-	<summary> Projects I am looking to do: </summary>
-	<br>
-	
-	+ Create a Game
-	+ Potentially create a 3D Engine	
-</details>
 	
