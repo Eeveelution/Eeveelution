@@ -45,10 +45,4 @@ I also from time to time like to experiment with new technologies and languages 
 
 <br><br>
 
-## Statistics and other stuff
-	
-![](https://github.com/Eeveelution/github-stats/blob/master/generated/languages.svg)
-
-<embed src="https://wakatime.com/share/@45b74ee6-e679-4895-927f-3abce4fca4f8/cd6646b2-25a0-4766-b3ed-2c7172feba4e.svg"/>
-
 	
